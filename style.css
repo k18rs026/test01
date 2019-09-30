@@ -1,0 +1,15 @@
+body {
+margin-left: auto;
+margin-right: auto;
+width: 96%;
+max-width: 760px;
+background: White;
+}
+h1 {
+font-size: 1.6em;
+border: inset 10px Blue;
+}
+li:first-letter {
+font-weight: bold;
+color: blue;
+}
